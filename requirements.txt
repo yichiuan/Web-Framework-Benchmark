@@ -1,0 +1,8 @@
+invoke==0.13
+Flask==0.11.1
+gunicorn==19.6.0
+gevent==1.1.2
+meinheld==0.6.1
+uvloop==0.5.4
+aiohttp==1.0.5
+uwsgi==2.0.14
